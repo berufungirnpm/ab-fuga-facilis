@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@berufungirnpm/ab-fuga-facilis",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/berufungirnpm/ab-fuga-facilis.git"
   },
   "dependencies": {
+    "@berufungirnpm/a-nulla-totam": "^1.0.0",
+    "@berufungirnpm/at-voluptate-iste": "^1.0.0",
+    "@rtyughnnpm/molestiae-accusamus-minima-vitae": "^1.0.0"
   }
 }
